@@ -130,3 +130,5 @@ dmypy.json
 
 
 .idea/
+
+# For proper gitignore file user template from gitignore.io
